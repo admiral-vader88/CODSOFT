@@ -7,4 +7,4 @@ Task 2:CREDIT CARD FRAUD DETECTION
 a model to detect fraudulent credit card transactions, using a dataset containing information about credit card transactions, and experiment with Logistic Regression algorithm.
 
 Task 3: SMS SPAM Classification
-AI model that can classify SMS messages as spam or legitimate, using techniques like TF-IDF MultiNomial Naive Bayes classifier like Naive Bayes to identify spam messages
+AI model that can classify SMS messages as spam or legitimate, using TF-IDF ,MultiNomial Naive Bayes classifier to identify spam messages
