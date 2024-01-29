@@ -1,6 +1,6 @@
 Task 1 at Codsoft:
 Movie Genre Classification Model using Machine Learning 
-In this machine learning project, we aim to predict the genre of a movie based on its plot summary using various natural language processing (NLP) techniques and machine learning algorithms. We will leverage techniques like TF-IDF (Term Frequency-Inverse Document Frequency) and use Multinomial Naive Bayes to build an accurate genre classification model.
+To predict the genre of a movie based on its plot summary using natural language processing (NLP) ,TF-IDF and Multinomial Naive bayes.
 
 
 Task 2:CREDIT CARD FRAUD DETECTION
